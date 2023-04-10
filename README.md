@@ -18,9 +18,8 @@
 const sanghyeon = {
   pronouns: "he" | "him",
   region: "Incheon, Korea",
-  code: [JavaScript, React, TypeScript, Redux, NodeJS, HTML, CSS, SCSS, Styled-Components,  C, C++, Python, Java],
-  tools: [VSCode, Notion, Github, Figma, Jira, Discode, Postman, Slack, Swagger],
-  challenge: "I am doing the Elice Software Engineer Track 3 challenge focused on Frontend and Fullstack"
+  code: [JavaScript, React, TypeScript, NodeJS, HTML, CSS, SCSS, Styled-Components, C, C++, C#, Python, Java],
+  tools: [Notion, Git, Figma, Jira, Discode, Postman, Unity],
 }
 ```
 
