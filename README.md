@@ -19,7 +19,7 @@ const sanghyeon = {
   pronouns: "he" | "him",
   region: "Incheon, Korea",
   code: [JavaScript, React, NodeJS, HTML, CSS, SCSS, TypeScript, Styled-Components, C, C++, C#, Python, Java],
-  tools: [Notion, Git, Figma, Jira, Discode, Postman, Unity],
+  tools: [Notion, Git, Figma, Jira, Discode],
 }
 ```
 
